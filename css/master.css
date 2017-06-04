@@ -82,7 +82,7 @@ html,body {
 }
 #nav ul li a{text-shadow: 1px 1px 0 #555;}
 #nav ul li.current a{
-  color: #00a800;
+  color: #e4ff00;
 }
 #hero-page {
   display:block;
@@ -157,7 +157,7 @@ html,body {
 }
 
 #projects-page ul h3 > span {
-    color: green;
+    color: #777;
 }
 
 #projects-page ul li p {
@@ -206,7 +206,7 @@ html,body {
   clear: both;
 }
 .typewriter .color {
-  color: #00a800;
+  color: #e4ff00;
 }
 
 #type {
@@ -225,7 +225,7 @@ html,body {
 
 @keyframes blink-caret {
   from, to { border-color: transparent }
-  50% { border-color: #00a800; }
+  50% { border-color: #e4ff00; }
 }
 
 
