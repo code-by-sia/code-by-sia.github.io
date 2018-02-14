@@ -27,12 +27,13 @@ function toggleMobileMenu() {
 function typewriter(elementId){
   var el = document.getElementById(elementId);
   var words  = [
-      'writes codes',
-      'loves JavaScript',
+      'writes well-performanced algorithmes',
+      'fallen in love with C/C++',
       'loves web design and development',
-      'drinks a lot of coffee ',
+      'loves JavaScript',
+      //'drinks a lot of coffee ',
       'is creative!',
-      'makes new stuff',
+      'wanna make/invent new stuff',
     ];
 
   var wordId=0;
